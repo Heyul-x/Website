@@ -9,3 +9,4 @@ Add Socials Webpage and include:
 * Hack the Box (remove the hyperlinks in the about me section (maybe, or edit to look better))
 Create a certificates page
 create a projects page
+
