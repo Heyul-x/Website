@@ -8,4 +8,3 @@ Add Socials Webpage and include:
 * BTLO
 * Hack the Box (remove the hyperlinks in the about me section (maybe, or edit to look better))
 
-test test test
